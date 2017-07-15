@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$thumbnail-padding".
-        on line 9 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/thumbnails.scss
+        on line 9 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/thumbnails.scss
 
 4: 
 5: 
@@ -15,7 +15,7 @@ Error: Undefined variable: "$thumbnail-padding".
 14:   border-radius: $thumbnail-border-radius;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/thumbnails.scss:9
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/thumbnails.scss:9
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$thumbnail-padding\".\A         on line 9 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/thumbnails.scss\A \A 4: \A 5: \A 6: // Mixin and adjust the regular image class\A 7: .thumbnail {\A 8:   display: block;\A 9:   padding: $thumbnail-padding;\A 10:   margin-bottom: $line-height-computed;\A 11:   line-height: $line-height-base;\A 12:   background-color: $thumbnail-bg;\A 13:   border: 1px solid $thumbnail-border;\A 14:   border-radius: $thumbnail-border-radius;"; }
+  content: "Error: Undefined variable: \"$thumbnail-padding\".\A         on line 9 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/thumbnails.scss\A \A 4: \A 5: \A 6: // Mixin and adjust the regular image class\A 7: .thumbnail {\A 8:   display: block;\A 9:   padding: $thumbnail-padding;\A 10:   margin-bottom: $line-height-computed;\A 11:   line-height: $line-height-base;\A 12:   background-color: $thumbnail-bg;\A 13:   border: 1px solid $thumbnail-border;\A 14:   border-radius: $thumbnail-border-radius;"; }

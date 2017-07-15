@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$line-height-computed".
-        on line 24 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/forms.scss
+        on line 24 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/forms.scss
 
 19: 
 20: legend {
@@ -15,7 +15,7 @@ Error: Undefined variable: "$line-height-computed".
 29:   border-bottom: 1px solid $legend-border-color;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/forms.scss:24
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/forms.scss:24
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$line-height-computed\".\A         on line 24 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/forms.scss\A \A 19: \A 20: legend {\A 21:   display: block;\A 22:   width: 100%;\A 23:   padding: 0;\A 24:   margin-bottom: $line-height-computed;\A 25:   font-size: ($font-size-base * 1.5);\A 26:   line-height: inherit;\A 27:   color: $legend-color;\A 28:   border: 0;\A 29:   border-bottom: 1px solid $legend-border-color;"; }
+  content: "Error: Undefined variable: \"$line-height-computed\".\A         on line 24 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/forms.scss\A \A 19: \A 20: legend {\A 21:   display: block;\A 22:   width: 100%;\A 23:   padding: 0;\A 24:   margin-bottom: $line-height-computed;\A 25:   font-size: ($font-size-base * 1.5);\A 26:   line-height: inherit;\A 27:   color: $legend-color;\A 28:   border: 0;\A 29:   border-bottom: 1px solid $legend-border-color;"; }

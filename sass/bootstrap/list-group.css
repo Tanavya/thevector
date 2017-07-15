@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$list-group-bg".
-        on line 27 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/list-group.scss
+        on line 27 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/list-group.scss
 
 22:   position: relative;
 23:   display: block;
@@ -15,7 +15,7 @@ Error: Undefined variable: "$list-group-bg".
 32:     @include border-top-radius($list-group-border-radius);
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/list-group.scss:27
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/list-group.scss:27
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$list-group-bg\".\A         on line 27 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/list-group.scss\A \A 22:   position: relative;\A 23:   display: block;\A 24:   padding: 10px 15px;\A 25:   // Place the border on the list items and negative margin up for better styling\A 26:   margin-bottom: -1px;\A 27:   background-color: $list-group-bg;\A 28:   border: 1px solid $list-group-border;\A 29: \A 30:   // Round the first and last items\A 31:   &:first-child {\A 32:     @include border-top-radius($list-group-border-radius);"; }
+  content: "Error: Undefined variable: \"$list-group-bg\".\A         on line 27 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/list-group.scss\A \A 22:   position: relative;\A 23:   display: block;\A 24:   padding: 10px 15px;\A 25:   // Place the border on the list items and negative margin up for better styling\A 26:   margin-bottom: -1px;\A 27:   background-color: $list-group-bg;\A 28:   border: 1px solid $list-group-border;\A 29: \A 30:   // Round the first and last items\A 31:   &:first-child {\A 32:     @include border-top-radius($list-group-border-radius);"; }

@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$line-height-computed".
-        on line 8 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/panels.scss
+        on line 8 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/panels.scss
 
 3: // --------------------------------------------------
 4: 
@@ -15,7 +15,7 @@ Error: Undefined variable: "$line-height-computed".
 13: }
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/panels.scss:8
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/panels.scss:8
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$line-height-computed\".\A         on line 8 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/panels.scss\A \A 3: // --------------------------------------------------\A 4: \A 5: \A 6: // Base class\A 7: .panel {\A 8:   margin-bottom: $line-height-computed;\A 9:   background-color: $panel-bg;\A 10:   border: 1px solid transparent;\A 11:   border-radius: $panel-border-radius;\A 12:   @include box-shadow(0 1px 1px rgba(0,0,0,.05));\A 13: }"; }
+  content: "Error: Undefined variable: \"$line-height-computed\".\A         on line 8 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/panels.scss\A \A 3: // --------------------------------------------------\A 4: \A 5: \A 6: // Base class\A 7: .panel {\A 8:   margin-bottom: $line-height-computed;\A 9:   background-color: $panel-bg;\A 10:   border: 1px solid transparent;\A 11:   border-radius: $panel-border-radius;\A 12:   @include box-shadow(0 1px 1px rgba(0,0,0,.05));\A 13: }"; }

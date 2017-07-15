@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$zindex-modal".
-        on line 24 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/modals.scss
+        on line 24 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/modals.scss
 
 19:   position: fixed;
 20:   top: 0;
@@ -15,7 +15,7 @@ Error: Undefined variable: "$zindex-modal".
 29:   outline: 0;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/modals.scss:24
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/modals.scss:24
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$zindex-modal\".\A         on line 24 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/modals.scss\A \A 19:   position: fixed;\A 20:   top: 0;\A 21:   right: 0;\A 22:   bottom: 0;\A 23:   left: 0;\A 24:   z-index: $zindex-modal;\A 25:   -webkit-overflow-scrolling: touch;\A 26: \A 27:   // Prevent Chrome on Windows from adding a focus outline. For details, see\A 28:   // https://github.com/twbs/bootstrap/pull/10951.\A 29:   outline: 0;"; }
+  content: "Error: Undefined variable: \"$zindex-modal\".\A         on line 24 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/modals.scss\A \A 19:   position: fixed;\A 20:   top: 0;\A 21:   right: 0;\A 22:   bottom: 0;\A 23:   left: 0;\A 24:   z-index: $zindex-modal;\A 25:   -webkit-overflow-scrolling: touch;\A 26: \A 27:   // Prevent Chrome on Windows from adding a focus outline. For details, see\A 28:   // https://github.com/twbs/bootstrap/pull/10951.\A 29:   outline: 0;"; }

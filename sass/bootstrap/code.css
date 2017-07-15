@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$font-family-monospace".
-        on line 11 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/code.scss
+        on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/code.scss
 
 6: // Inline and block code styles
 7: code,
@@ -15,7 +15,7 @@ Error: Undefined variable: "$font-family-monospace".
 16:   padding: 2px 4px;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/code.scss:11
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/code.scss:11
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$font-family-monospace\".\A         on line 11 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/code.scss\A \A 6: // Inline and block code styles\A 7: code,\A 8: kbd,\A 9: pre,\A 10: samp {\A 11:   font-family: $font-family-monospace;\A 12: }\A 13: \A 14: // Inline code\A 15: code {\A 16:   padding: 2px 4px;"; }
+  content: "Error: Undefined variable: \"$font-family-monospace\".\A         on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/code.scss\A \A 6: // Inline and block code styles\A 7: code,\A 8: kbd,\A 9: pre,\A 10: samp {\A 11:   font-family: $font-family-monospace;\A 12: }\A 13: \A 14: // Inline code\A 15: code {\A 16:   padding: 2px 4px;"; }

@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'transition'.
-        on line 19 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/carousel.scss, in `transition'
-        from line 19 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/carousel.scss
+        on line 19 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/carousel.scss, in `transition'
+        from line 19 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/carousel.scss
 
 14:   width: 100%;
 15: 
@@ -16,8 +16,8 @@ Error: Undefined mixin 'transition'.
 24:       @include img-responsive;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/carousel.scss:19:in `transition'
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/carousel.scss:19
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/carousel.scss:19:in `transition'
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/carousel.scss:19
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:349:in `block in visit_mixin'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/stack.rb:98:in `block in with_mixin'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/stack.rb:115:in `with_frame'
@@ -76,4 +76,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'transition'.\A         on line 19 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/carousel.scss, in `transition'\A         from line 19 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/carousel.scss\A \A 14:   width: 100%;\A 15: \A 16:   > .item {\A 17:     display: none;\A 18:     position: relative;\A 19:     @include transition(.6s ease-in-out left);\A 20: \A 21:     // Account for jankitude on images\A 22:     > img,\A 23:     > a > img {\A 24:       @include img-responsive;"; }
+  content: "Error: Undefined mixin 'transition'.\A         on line 19 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/carousel.scss, in `transition'\A         from line 19 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/carousel.scss\A \A 14:   width: 100%;\A 15: \A 16:   > .item {\A 17:     display: none;\A 18:     position: relative;\A 19:     @include transition(.6s ease-in-out left);\A 20: \A 21:     // Account for jankitude on images\A 22:     > img,\A 23:     > a > img {\A 24:       @include img-responsive;"; }

@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$well-bg".
-        on line 11 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/wells.scss
+        on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/wells.scss
 
 6: // Base class
 7: .well {
@@ -15,7 +15,7 @@ Error: Undefined variable: "$well-bg".
 16:     border-color: #ddd;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/wells.scss:11
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/wells.scss:11
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$well-bg\".\A         on line 11 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/wells.scss\A \A 6: // Base class\A 7: .well {\A 8:   min-height: 20px;\A 9:   padding: 19px;\A 10:   margin-bottom: 20px;\A 11:   background-color: $well-bg;\A 12:   border: 1px solid $well-border;\A 13:   border-radius: $border-radius-base;\A 14:   @include box-shadow(inset 0 1px 1px rgba(0,0,0,.05));\A 15:   blockquote {\A 16:     border-color: #ddd;"; }
+  content: "Error: Undefined variable: \"$well-bg\".\A         on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/wells.scss\A \A 6: // Base class\A 7: .well {\A 8:   min-height: 20px;\A 9:   padding: 19px;\A 10:   margin-bottom: 20px;\A 11:   background-color: $well-bg;\A 12:   border: 1px solid $well-border;\A 13:   border-radius: $border-radius-base;\A 14:   @include box-shadow(inset 0 1px 1px rgba(0,0,0,.05));\A 15:   blockquote {\A 16:     border-color: #ddd;"; }

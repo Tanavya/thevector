@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'responsive-invisibility'.
-        on line 29 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/responsive-utilities.scss, in `responsive-invisibility'
-        from line 29 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/responsive-utilities.scss
+        on line 29 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/responsive-utilities.scss, in `responsive-invisibility'
+        from line 29 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/responsive-utilities.scss
 
 24: 
 25: 
@@ -16,8 +16,8 @@ Error: Undefined mixin 'responsive-invisibility'.
 34: .visible-xs-block,
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/responsive-utilities.scss:29:in `responsive-invisibility'
-/Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/responsive-utilities.scss:29
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/responsive-utilities.scss:29:in `responsive-invisibility'
+/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/responsive-utilities.scss:29
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:349:in `block in visit_mixin'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/stack.rb:98:in `block in with_mixin'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/stack.rb:115:in `with_frame'
@@ -54,4 +54,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'responsive-invisibility'.\A         on line 29 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/responsive-utilities.scss, in `responsive-invisibility'\A         from line 29 of /Users/vaishnavigupta/Documents/Math Website/sass/bootstrap/responsive-utilities.scss\A \A 24: \A 25: \A 26: // Visibility utilities\A 27: // Note: Deprecated .visible-xs, .visible-sm, .visible-md, and .visible-lg as of v3.2.0\A 28: \A 29: @include responsive-invisibility('.visible-xs');\A 30: @include responsive-invisibility('.visible-sm');\A 31: @include responsive-invisibility('.visible-md');\A 32: @include responsive-invisibility('.visible-lg');\A 33: \A 34: .visible-xs-block,"; }
+  content: "Error: Undefined mixin 'responsive-invisibility'.\A         on line 29 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/responsive-utilities.scss, in `responsive-invisibility'\A         from line 29 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/responsive-utilities.scss\A \A 24: \A 25: \A 26: // Visibility utilities\A 27: // Note: Deprecated .visible-xs, .visible-sm, .visible-md, and .visible-lg as of v3.2.0\A 28: \A 29: @include responsive-invisibility('.visible-xs');\A 30: @include responsive-invisibility('.visible-sm');\A 31: @include responsive-invisibility('.visible-md');\A 32: @include responsive-invisibility('.visible-lg');\A 33: \A 34: .visible-xs-block,"; }
