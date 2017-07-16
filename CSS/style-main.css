@@ -231,7 +231,7 @@ textarea {
 .sf-menu ul {
   box-shadow: none;
   border: transparent;
-  min-width: 8em;
+  min-width: 6em;
   *width: 8em;
 }
 
@@ -388,13 +388,23 @@ textarea {
 }
 #fh5co-primary-menu .fh5co-sub-menu-2 {
   padding: 7px 0 28.5px; /*this is the padding of the drop down thing*/
-  background: rgba(0, 0, 0, 0.8);
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  border-radius: 5px;
+  background: rgba(0, 0, 0, 1);
+	-webkit-border-radius :5px;
+  -moz-border-radius : 5px;
+  -ms-border-radius : 5px;
+  border-radius:  5px; 
+  -webkit-border-top-left-radius :0px;
+  -moz-border-top-left-radius : 0px;
+  -ms-border-top-left-radius : 0px;
+  border-top-left-radius:  0px; 
+	
+	  -webkit-border-bottom-left-radius :0px;
+  -moz-border-bottom-left-radius : 0px;
+  -ms-border-bottom-left-radius : 0px;
+  border-bottom-left-radius:  0px; 
 	position:absolute;
-	right:-190px;
+	right:0px;
+	
 	
 }
 
@@ -445,7 +455,7 @@ textarea {
 #fh5co-primary-menu .fh5co-sub-menu-2 a:hover {
   color: #90d7ea !important;
 }
-/*
+
 .site-header.has-image #primary-menu .sub-menu-2 {
   border-color: #ebebeb;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.19);
@@ -453,17 +463,32 @@ textarea {
 .site-header.has-image #primary-menu .sub-menu-2:before {
   display: none;
 }
-*/
+
 
 #fh5co-primary-menu .fh5co-sub-menu-1 {
   padding: 7px 0 3px; /*this is the padding of the drop down thing*/
-  background: rgba(0, 0, 0, 0.8); /*TODO*/
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  border-radius: 5px; 
+	padding-right: -50px;
+  background: rgba(0, 0, 0, 1); /*TODO*/
+	-webkit-border-radius :5px;
+  -moz-border-radius : 5px;
+  -ms-border-radius : 5px;
+  border-radius:  5px; 
+  -webkit-border-top-right-radius :0px;
+  -moz-border-top-right-radius : 0px;
+  -ms-border-top-right-radius : 0px;
+  border-top-right-radius:  0px; 
+	
+	  -webkit-border-bottom-right-radius :0px;
+  -moz-border-bottom-right-radius : 0px;
+  -ms-border-bottom-right-radius : 0px;
+  border-bottom-right-radius:  0px; 
+	
+		position:absolute;
+	right:190.5px;
+
+	
 }
-/*
+
 #fh5co-primary-menu .fh5co-sub-menu-1:before {
   position: relative;
   top: -9px;
@@ -471,12 +496,12 @@ textarea {
   width: 10px;
   height: 0;
   content: '';
-}*/ /*this sort of does nothing!*/
+} /*this sort of does nothing!*/
 
 #fh5co-primary-menu .fh5co-sub-menu-1:after {
   position: absolute;
   top: -8px;
-  right: 21px;
+  right: -170px;
   width: 0;
   height: 0;
   border-right: 8px solid transparent;
@@ -485,7 +510,7 @@ textarea {
   border-left: 8px solid transparent;
   content: '';
 }/*this somehow controls the little arrow thing*/
-
+/*
 #fh5co-primary-menu .fh5co-sub-menu-1 .fh5co-sub-menu-1:before {
   top: 6px;
   right: 100%;
@@ -495,18 +520,20 @@ textarea {
   top: 7px;
   right: 100%;
   border: none !important;
-}
+}*/
 
 
 
 #fh5co-primary-menu .fh5co-sub-menu-1 a {
   letter-spacing: 0;
-  padding: 0 15px; /*this also somehow controls the padding idek*/
+  padding: 0 15px;
+	padding-right: -10px;/*this also somehow controls the padding idek*/
   font-size: 14px;
   line-height: 26px;
   color: #ffffff !important;
   text-transform: none;
   background: none;
+	
 }
 #fh5co-primary-menu .fh5co-sub-menu-1 a:hover {
   color: #90d7ea !important;
