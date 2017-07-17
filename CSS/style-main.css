@@ -1110,7 +1110,6 @@ body.fh5co-mobile-menu-visible #fh5co-mobile-menu {
 }
 
 .quote {
-  height: 6em;
   width: 80%;
   margin: 0 auto;
   font-size: 28px;
@@ -1345,10 +1344,8 @@ Components
 
 /* Features*/
 #fh5co-features .fh5co-feature {
-  /*margin-bottom: 30px;*/
-  margin: 30px 30px;
-	
-  width: 40%;
+  margin-bottom: 30px;
+  */margin-left: 120px;*/
 }
 #fh5co-features .fh5co-feature .heading {
   font-size: 18px;
@@ -1370,9 +1367,6 @@ Components
   vertical-align: middle;
   font-size: 50px;
   color: #90d7ea;
-}
-#fh5co-features .fh5co-feature p {
-	height: 5em;
 }
 
 /* Header */
