@@ -1,6 +1,6 @@
-<?php
+<?php 
 
-include 'database_handler.php';
+include "header.php";
 
 $first = $_POST['first'];
 $last = $_POST['last'];

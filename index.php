@@ -1,114 +1,11 @@
+<?php 
+ 	include "header.php";
+?>
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 	<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Slant &mdash; The Vector </title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="A math resource website for students, by students." />
-	<meta name="keywords" content="math, maths resources, math help, mathematics, math forum, math challenges, dpsi, maths, dpsi maths" />
-	<meta name="author" content="Vaishnavi Gupta" />
-  	<meta name="author" content="Tanavya Dimri" />
-  	
-  	<!-- google sign in-->
-  	<meta name="google-signin-scope" content="profile email">
-    <meta name="google-signin-client_id" content="274836840827-7emli48pvauq3ibm5m3irqtua6t135bb.apps.googleusercontent.com">
-    <script src="https://apis.google.com/js/platform.js" async defer></script>
-
-  	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
-
-  	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-  	<link rel="shortcut icon" href="favicon.ico">
-
-  	<!-- Google Webfont -->
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-	<!-- Themify Icons -->
-	<link rel="stylesheet" href="css/themify-icons.css">
-	<!-- Bootstrap -->
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<!-- Owl Carousel -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<!-- Superfish -->
-	<link rel="stylesheet" href="css/superfish.css">
-	<!-- Easy Responsive Tabs -->
-	<link rel="stylesheet" href="css/easy-responsive-tabs.css">
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
-	<!-- Theme Style -->
 	<link rel="stylesheet" href="css/style-main.css">
-
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
-	<![endif]-->
-
 	</head>
-	<body>
-
-		<!-- START #fh5co-header -->
-		<header id="fh5co-header-section" role="header" class="" >
-			<div class="container">
-
-				
-
-				<!-- <div id="fh5co-menu-logo"> -->
-					<!-- START #fh5co-logo -->
-				
-					
-					<!-- START #fh5co-menu-wrap -->
-					<nav id="fh5co-menu-wrap" role="navigation" style="float: left; margin-left: 38px;">
-						
-						
-						<ul class="sf-menu" id="fh5co-primary-menu">
-							<li class="active">
-								<a href="index.html">Home</a>
-							</li>
-							<li>
-								<a href="#">About Us</a>
-							</li>
-							<li>
-								<a data-target="#" href="resources.html" class="fh5co-sub-ddown" >Resources</a>
-								<ul class="fh5co-sub-menu-1">
-								 	<li><a href="class 6.html">Class 6</a></li>
-								 	<li><a href="class 7.html">Class 7</a></li>
-								 	<li><a href="class 8.html">Class 8</a></li>
-								 	<li><a href="IGCSE.html">IGCSE</a></li>
-								</ul>
-								<ul class="fh5co-sub-menu-2">
-									<li><a href="a level pure math.html">A-Level Pure Mathematics</a></li>
-								 	<li><a href="a level mechanics.html">A-Level Mechanics</a></li>
-								 	<li><a href="a level statistics.html">A-Level Statistics</a></li> 
-								</ul>
-							</li>
-							<li><a href="#">Challenges</a></li>
-							<li><a href="#">Forum</a></li>
-							<li><a href="#">Tutoring</a></li>
-							<li class="fh5co-special"><a href="login.html">Log in</a></li>
-						</ul>
-					</nav>
-				<!-- </div> -->
-
-			</div>
-		</header>
-		
-		
+	<body class = "inner-page">		
 		<div id="fh5co-hero">
 			<a href="#fh5co-main" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
 			<!-- End fh5co-arrow -->
@@ -118,7 +15,15 @@
 						<div class="fh5co-hero-intro">
 							<h1 class="to-animate hero-animate-1">The Vector.</h1>
 							<h2 class="to-animate hero-animate-2">A math website for students, by students</h2>
-							<p class="to-animate hero-animate-3"><a href="login.html" class="btn btn-outline btn-lg">Log In</a></p>
+							<?php
+								if (isset($_SESSION['LoggedIn'])) {
+									echo "<h2 class = 'to-animate hero-animate-2'> Welcome " . $_SESSION['UserName'] . "</p>";
+								}
+							    else {
+									echo '<p class="to-animate hero-animate-3"><a href="login.php" class="btn btn-outline btn-lg">Log In</a></p>';
+								}
+							?>
+							</p>
 						</div>
 					</div>
 				</div>
@@ -129,7 +34,7 @@
 			<div class="container">
 			
 				<div class="row" id="fh5co-features" >
-					<a href="resources.html">
+					<a href="resources.php">
 					<div class="col-md-4 col-sm-6 text-center fh5co-feature feature-box" style="margin-left: 120px;">
 						<div class="fh5co-feature-icon">
 							<i class="ti-book"></i>
@@ -247,14 +152,14 @@
 					<div class="col-md-4 col-sm-6 footer-box">
 						<h3 class="fh5co-footer-heading">About us</h3>
 						<p>Started in 2017, The Vector is a Mathematics Society started by the students of DPS International. Our aim is to make math enjoyable for students, and to make math resources and help more accessible.</p>
-						<p><a href="login.html" class="btn btn-outline btn-sm">Log In</a></p>
+						<p><a href="login.php" class="btn btn-outline btn-sm">Log In</a></p>
 
 					</div>
 					<div class="col-md-4 col-sm-6 footer-box" style="float:rights">
 						<h3 class="fh5co-footer-heading">Links</h3>
 						<ul class="fh5co-footer-links">
 							<li><a href="#">About Us</a></li>
-							<li><a href="resources.html">Resources</a></li>
+							<li><a href="resources.php">Resources</a></li>
 							<li><a href="#">Challenges</a></li>
 							<li><a href="#">Forum</a></li>
 							<li><a href="#">Tutoring</a></li>
