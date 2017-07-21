@@ -1,23 +1,23 @@
 <?php
-include "header.php";
+session_start();
+include "database_handler.php";
 
-
-$uid = $_POST['uid'];
+$uid = strtolower($_POST['uid']);
 $pwd = $_POST['pwd'];
 
-/*echo $first . $last . $uid . $class . $pwd . $class;*/
+//echo "$pwd </br> $uid </br>";
 $sql = "SELECT * FROM user_table WHERE uid = '$uid' AND pwd = '$pwd'";
 
 $result = mysqli_query($conn, $sql);
 
 if (!$row = mysqli_fetch_assoc($result)) {
-	echo "Your username or password is incorrect!";
-	//$_SESSION['error_msg'] = "Your username or password is incorrect!";
+	$_SESSION['error_msg'] = "Your username or password is incorrect!";
+	header("Location:login.php");
+	exit();
 }
 else {
-	$_SESSION['id'] = "YOU HAVE BEEN LOGGED IN! YAY";
-	header("Location: index.php");
+	$_SESSION['LoggedIn'] = true;
+	$_SESSION['UserName'] = $row['uid'];
+	header("Location:index.php");
+	exit();
 }
-
-?>
-
