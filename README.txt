@@ -10,7 +10,8 @@ Started in 2017, The Vector is a Mathematics Society started by the students of 
 
 -> SET UP DATABASE
 
-	Open phpMyAdmin in MAMP
+	Open phpMyAdmin in MAMP. phpMyAdmin is in the navbar of MAMP home page, but it might be greyed out. In case it is, read the first 2 answers.
+	https://stackoverflow.com/questions/8656139/i-cant-access-phpmyadmin-with-mamp
 
 	Create Database called "login".
 
