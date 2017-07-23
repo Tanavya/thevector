@@ -60,7 +60,7 @@
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Theme Style -->
-	<!--<link rel="stylesheet" href="css/style-new-stuff.css"> -->
+	<link rel="stylesheet" href="css/style.css">
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
@@ -132,7 +132,7 @@
 							</li>
 							<li><a href="#">Challenges</a></li>
 							<li><a href="#">Forum</a></li>
-							<li><a href="#">Tutoring</a></li>
+							<li><a href="tutoring.php">Tutoring</a></li>
 							<?php
 								
 								if (isset($_SESSION['LoggedIn'])) {

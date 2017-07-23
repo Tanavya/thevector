@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$alert-padding".
-        on line 10 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/alerts.scss
+        on line 10 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/alerts.scss
 
 5: 
 6: // Base styles
@@ -15,7 +15,7 @@ Error: Undefined variable: "$alert-padding".
 15:   // Headings for larger alerts
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/alerts.scss:10
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/alerts.scss:10
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$alert-padding\".\A         on line 10 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/alerts.scss\A \A 5: \A 6: // Base styles\A 7: // -------------------------\A 8: \A 9: .alert {\A 10:   padding: $alert-padding;\A 11:   margin-bottom: $line-height-computed;\A 12:   border: 1px solid transparent;\A 13:   border-radius: $alert-border-radius;\A 14: \A 15:   // Headings for larger alerts"; }
+  content: "Error: Undefined variable: \"$alert-padding\".\A         on line 10 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/alerts.scss\A \A 5: \A 6: // Base styles\A 7: // -------------------------\A 8: \A 9: .alert {\A 10:   padding: $alert-padding;\A 11:   margin-bottom: $line-height-computed;\A 12:   border: 1px solid transparent;\A 13:   border-radius: $alert-border-radius;\A 14: \A 15:   // Headings for larger alerts"; }

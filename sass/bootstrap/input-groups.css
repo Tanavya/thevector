@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$padding-base-vertical".
-        on line 74 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/input-groups.scss
+        on line 74 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/input-groups.scss
 
 69: }
 70: 
@@ -15,7 +15,7 @@ Error: Undefined variable: "$padding-base-vertical".
 79:   text-align: center;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/input-groups.scss:74
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/input-groups.scss:74
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/list_literal.rb:63:in `block in _perform'
@@ -65,4 +65,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$padding-base-vertical\".\A         on line 74 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/input-groups.scss\A \A 69: }\A 70: \A 71: // Text input groups\A 72: // -------------------------\A 73: .input-group-addon {\A 74:   padding: $padding-base-vertical $padding-base-horizontal;\A 75:   font-size: $font-size-base;\A 76:   font-weight: normal;\A 77:   line-height: 1;\A 78:   color: $input-color;\A 79:   text-align: center;"; }
+  content: "Error: Undefined variable: \"$padding-base-vertical\".\A         on line 74 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/input-groups.scss\A \A 69: }\A 70: \A 71: // Text input groups\A 72: // -------------------------\A 73: .input-group-addon {\A 74:   padding: $padding-base-vertical $padding-base-horizontal;\A 75:   font-size: $font-size-base;\A 76:   font-weight: normal;\A 77:   line-height: 1;\A 78:   color: $input-color;\A 79:   text-align: center;"; }

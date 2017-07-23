@@ -2030,5 +2030,22 @@ a > img.fh5co-align-center {
 .site-header.has-image #primary-menu .sub-menu-2:before {
   display: none;
 }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #000099;
+    text-align: center;
+    padding: 8px;
+    width: 300px;
+}
+thead {
+	background-color: #dddddd;
+
+}
+
 
 /*# sourceMappingURL=style.css.map */

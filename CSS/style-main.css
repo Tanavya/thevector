@@ -1939,4 +1939,21 @@ a > img.fh5co-align-center {
 #fh5co-primary-menu .user-sub-menu a:hover {
   color: #90d7ea !important;
 }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #000099;
+    text-align: center;
+    padding: 8px;
+    width: 300px;
+}
+thead {
+	background-color: #dddddd;
+
+}
+
 /*# sourceMappingURL=style.css.map */

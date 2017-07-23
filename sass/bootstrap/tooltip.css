@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$zindex-tooltip".
-        on line 9 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/tooltip.scss
+        on line 9 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/tooltip.scss
 
 4: 
 5: 
@@ -15,7 +15,7 @@ Error: Undefined variable: "$zindex-tooltip".
 14:   font-size: $font-size-small;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/tooltip.scss:9
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/tooltip.scss:9
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$zindex-tooltip\".\A         on line 9 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/tooltip.scss\A \A 4: \A 5: \A 6: // Base class\A 7: .tooltip {\A 8:   position: absolute;\A 9:   z-index: $zindex-tooltip;\A 10:   display: block;\A 11:   visibility: visible;\A 12:   // Reset font and text propertes given new insertion method\A 13:   font-family: $font-family-base;\A 14:   font-size: $font-size-small;"; }
+  content: "Error: Undefined variable: \"$zindex-tooltip\".\A         on line 9 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/tooltip.scss\A \A 4: \A 5: \A 6: // Base class\A 7: .tooltip {\A 8:   position: absolute;\A 9:   z-index: $zindex-tooltip;\A 10:   display: block;\A 11:   visibility: visible;\A 12:   // Reset font and text propertes given new insertion method\A 13:   font-family: $font-family-base;\A 14:   font-size: $font-size-small;"; }

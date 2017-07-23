@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$font-size-small".
-        on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/badges.scss
+        on line 11 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/badges.scss
 
 6: // Base class
 7: .badge {
@@ -15,7 +15,7 @@ Error: Undefined variable: "$font-size-small".
 16:   white-space: nowrap;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/badges.scss:11
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/badges.scss:11
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$font-size-small\".\A         on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/badges.scss\A \A 6: // Base class\A 7: .badge {\A 8:   display: inline-block;\A 9:   min-width: 10px;\A 10:   padding: 3px 7px;\A 11:   font-size: $font-size-small;\A 12:   font-weight: $badge-font-weight;\A 13:   color: $badge-color;\A 14:   line-height: $badge-line-height;\A 15:   vertical-align: baseline;\A 16:   white-space: nowrap;"; }
+  content: "Error: Undefined variable: \"$font-size-small\".\A         on line 11 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/badges.scss\A \A 6: // Base class\A 7: .badge {\A 8:   display: inline-block;\A 9:   min-width: 10px;\A 10:   padding: 3px 7px;\A 11:   font-size: $font-size-small;\A 12:   font-weight: $badge-font-weight;\A 13:   color: $badge-color;\A 14:   line-height: $badge-line-height;\A 15:   vertical-align: baseline;\A 16:   white-space: nowrap;"; }

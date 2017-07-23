@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$caret-width-base".
-        on line 13 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/dropdowns.scss
+        on line 13 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/dropdowns.scss
 
 8:   display: inline-block;
 9:   width: 0;
@@ -15,7 +15,7 @@ Error: Undefined variable: "$caret-width-base".
 18: // The dropdown wrapper (div)
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/dropdowns.scss:13
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/dropdowns.scss:13
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/list_literal.rb:63:in `block in _perform'
@@ -65,4 +65,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$caret-width-base\".\A         on line 13 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/dropdowns.scss\A \A 8:   display: inline-block;\A 9:   width: 0;\A 10:   height: 0;\A 11:   margin-left: 2px;\A 12:   vertical-align: middle;\A 13:   border-top:   $caret-width-base solid;\A 14:   border-right: $caret-width-base solid transparent;\A 15:   border-left:  $caret-width-base solid transparent;\A 16: }\A 17: \A 18: // The dropdown wrapper (div)"; }
+  content: "Error: Undefined variable: \"$caret-width-base\".\A         on line 13 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/dropdowns.scss\A \A 8:   display: inline-block;\A 9:   width: 0;\A 10:   height: 0;\A 11:   margin-left: 2px;\A 12:   vertical-align: middle;\A 13:   border-top:   $caret-width-base solid;\A 14:   border-right: $caret-width-base solid transparent;\A 15:   border-left:  $caret-width-base solid transparent;\A 16: }\A 17: \A 18: // The dropdown wrapper (div)"; }

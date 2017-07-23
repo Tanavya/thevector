@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$headings-font-family".
-        on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/type.scss
+        on line 11 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/type.scss
 
 6: // Headings
 7: // -------------------------
@@ -15,7 +15,7 @@ Error: Undefined variable: "$headings-font-family".
 16:   small,
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/type.scss:11
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/type.scss:11
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$headings-font-family\".\A         on line 11 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/type.scss\A \A 6: // Headings\A 7: // -------------------------\A 8: \A 9: h1, h2, h3, h4, h5, h6,\A 10: .h1, .h2, .h3, .h4, .h5, .h6 {\A 11:   font-family: $headings-font-family;\A 12:   font-weight: $headings-font-weight;\A 13:   line-height: $headings-line-height;\A 14:   color: $headings-color;\A 15: \A 16:   small,"; }
+  content: "Error: Undefined variable: \"$headings-font-family\".\A         on line 11 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/type.scss\A \A 6: // Headings\A 7: // -------------------------\A 8: \A 9: h1, h2, h3, h4, h5, h6,\A 10: .h1, .h2, .h3, .h4, .h5, .h6 {\A 11:   font-family: $headings-font-family;\A 12:   font-weight: $headings-font-weight;\A 13:   line-height: $headings-line-height;\A 14:   color: $headings-color;\A 15: \A 16:   small,"; }

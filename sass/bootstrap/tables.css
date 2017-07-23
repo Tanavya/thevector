@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$table-bg".
-        on line 7 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/tables.scss
+        on line 7 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/tables.scss
 
 2: // Tables
 3: // --------------------------------------------------
@@ -15,7 +15,7 @@ Error: Undefined variable: "$table-bg".
 12:   color: $text-muted;
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/tables.scss:7
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/tables.scss:7
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$table-bg\".\A         on line 7 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/tables.scss\A \A 2: // Tables\A 3: // --------------------------------------------------\A 4: \A 5: \A 6: table {\A 7:   background-color: $table-bg;\A 8: }\A 9: caption {\A 10:   padding-top: $table-cell-padding;\A 11:   padding-bottom: $table-cell-padding;\A 12:   color: $text-muted;"; }
+  content: "Error: Undefined variable: \"$table-bg\".\A         on line 7 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/tables.scss\A \A 2: // Tables\A 3: // --------------------------------------------------\A 4: \A 5: \A 6: table {\A 7:   background-color: $table-bg;\A 8: }\A 9: caption {\A 10:   padding-top: $table-cell-padding;\A 11:   padding-bottom: $table-cell-padding;\A 12:   color: $text-muted;"; }

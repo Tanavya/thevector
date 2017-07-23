@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$font-size-base".
-        on line 8 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/close.scss
+        on line 8 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/close.scss
 
 3: // --------------------------------------------------
 4: 
@@ -15,7 +15,7 @@ Error: Undefined variable: "$font-size-base".
 13:   @include opacity(.2);
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/close.scss:8
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/close.scss:8
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/operation.rb:64:in `_perform'
@@ -63,4 +63,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$font-size-base\".\A         on line 8 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/close.scss\A \A 3: // --------------------------------------------------\A 4: \A 5: \A 6: .close {\A 7:   float: right;\A 8:   font-size: ($font-size-base * 1.5);\A 9:   font-weight: $close-font-weight;\A 10:   line-height: 1;\A 11:   color: $close-color;\A 12:   text-shadow: $close-text-shadow;\A 13:   @include opacity(.2);"; }
+  content: "Error: Undefined variable: \"$font-size-base\".\A         on line 8 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/close.scss\A \A 3: // --------------------------------------------------\A 4: \A 5: \A 6: .close {\A 7:   float: right;\A 8:   font-size: ($font-size-base * 1.5);\A 9:   font-weight: $close-font-weight;\A 10:   line-height: 1;\A 11:   color: $close-color;\A 12:   text-shadow: $close-text-shadow;\A 13:   @include opacity(.2);"; }

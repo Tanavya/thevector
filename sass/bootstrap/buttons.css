@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$btn-font-weight".
-        on line 12 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/buttons.scss
+        on line 12 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/buttons.scss
 
 7: // --------------------------------------------------
 8: 
@@ -15,7 +15,7 @@ Error: Undefined variable: "$btn-font-weight".
 17:   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/buttons.scss:12
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/buttons.scss:12
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
@@ -61,4 +61,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$btn-font-weight\".\A         on line 12 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/buttons.scss\A \A 7: // --------------------------------------------------\A 8: \A 9: .btn {\A 10:   display: inline-block;\A 11:   margin-bottom: 0; // For input.btn\A 12:   font-weight: $btn-font-weight;\A 13:   text-align: center;\A 14:   vertical-align: middle;\A 15:   touch-action: manipulation;\A 16:   cursor: pointer;\A 17:   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214"; }
+  content: "Error: Undefined variable: \"$btn-font-weight\".\A         on line 12 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/buttons.scss\A \A 7: // --------------------------------------------------\A 8: \A 9: .btn {\A 10:   display: inline-block;\A 11:   margin-bottom: 0; // For input.btn\A 12:   font-weight: $btn-font-weight;\A 13:   text-align: center;\A 14:   vertical-align: middle;\A 15:   touch-action: manipulation;\A 16:   cursor: pointer;\A 17:   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214"; }

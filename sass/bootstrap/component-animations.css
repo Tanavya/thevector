@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'transition'.
-        on line 12 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/component-animations.scss, in `transition'
-        from line 12 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/component-animations.scss
+        on line 12 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/component-animations.scss, in `transition'
+        from line 12 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/component-animations.scss
 
 7: // We don't use the `.opacity()` mixin here since it causes a bug with text
 8: // fields in IE7-8. Source: https://github.com/twbs/bootstrap/pull/3552.
@@ -16,8 +16,8 @@ Error: Undefined mixin 'transition'.
 17: 
 
 Backtrace:
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/component-animations.scss:12:in `transition'
-/Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/component-animations.scss:12
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/component-animations.scss:12:in `transition'
+/Applications/MAMP/htdocs/thevector/sass/bootstrap/component-animations.scss:12
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/tree/visitors/perform.rb:349:in `block in visit_mixin'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/stack.rb:98:in `block in with_mixin'
 /Applications/Adobe Dreamweaver CC 2017/Adobe Dreamweaver CC 2017.app/Contents/Resources/gems/rubygems/gems/sass-3.4.19/lib/sass/stack.rb:115:in `with_frame'
@@ -65,4 +65,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'transition'.\A         on line 12 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/component-animations.scss, in `transition'\A         from line 12 of /Users/vaishnavigupta/Documents/Unnamed Site 2/sass/bootstrap/component-animations.scss\A \A 7: // We don't use the `.opacity()` mixin here since it causes a bug with text\A 8: // fields in IE7-8. Source: https://github.com/twbs/bootstrap/pull/3552.\A 9: \A 10: .fade {\A 11:   opacity: 0;\A 12:   @include transition(opacity .15s linear);\A 13:   &.in {\A 14:     opacity: 1;\A 15:   }\A 16: }\A 17: "; }
+  content: "Error: Undefined mixin 'transition'.\A         on line 12 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/component-animations.scss, in `transition'\A         from line 12 of /Applications/MAMP/htdocs/thevector/sass/bootstrap/component-animations.scss\A \A 7: // We don't use the `.opacity()` mixin here since it causes a bug with text\A 8: // fields in IE7-8. Source: https://github.com/twbs/bootstrap/pull/3552.\A 9: \A 10: .fade {\A 11:   opacity: 0;\A 12:   @include transition(opacity .15s linear);\A 13:   &.in {\A 14:     opacity: 1;\A 15:   }\A 16: }\A 17: "; }
