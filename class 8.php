@@ -1,5 +1,5 @@
 <?php 
-	$page_id = 'IGCSE';
+	$page_id = 'class 8';
  	include "header.php";
 ?>
 <!DOCTYPE html>

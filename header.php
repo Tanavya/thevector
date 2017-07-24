@@ -115,7 +115,7 @@
 								
 								<ul class="fh5co-sub-menu-2">
 						
-									<li <?php if ($page_id == 'a level pure mathematics') echo "class = active"; ?>> 
+									<li <?php if ($page_id == 'a level pure math') echo "class = active"; ?>> 
 										<a href="a level pure math.php">A-Level Pure Mathematics</a>
 									</li>
 									

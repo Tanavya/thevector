@@ -44,6 +44,11 @@
 				<div>
 					<div class="col-md-8">
 						<form action="#" method="post">
+							<?php
+								if (!isset($_SESSION['LoggedIn'])) {
+									print "<p style = 'color: red'>You need to be logged in first!</p>";
+								}   
+							?>
 							<table>
 								<thead>
 									<tr>
@@ -131,7 +136,15 @@
 							</br>
 							<div>
 								<div class="form-group">
-									<input type="submit" class="btn btn-primary btn-lg " value="Send">
+									
+									<input 
+										<?php
+											if (!isset($_SESSION['LoggedIn'])) {
+												echo " disabled=true ";
+											}   
+										?>
+									
+									type="submit" class="btn btn-primary btn-lg " value="Send">
 
 								</div>	
 							</div>
