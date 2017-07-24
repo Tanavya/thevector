@@ -90,7 +90,7 @@
 								<a href="#">About Us</a>
 							</li>
 							
-							<li <?php if ($page_id == 'resources') echo "class = active"; ?>>
+							<li <?php if ($page_id == 'resources'|| $page_id == 'class 6' || $page_id == 'class 7' || $page_id == 'class 8') echo "class = active"; ?>>
 								
 								<a data-target="#" href="resources.php" class="fh5co-sub-ddown" >Resources</a>
 								<ul class="fh5co-sub-menu-1">
