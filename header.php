@@ -131,7 +131,7 @@
 								
 							</li>
 							<li><a href="#">Challenges</a></li>
-							<li><a href="#">Forum</a></li>
+							<li><a href="http://localhost:8888/vanilla-core-2-3-1/">Forum</a></li>
 							<li><a href="tutoring.php">Tutoring</a></li>
 							<?php
 								

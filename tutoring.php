@@ -63,6 +63,7 @@
 										<th> 8 </th>
 										<th> 9 </th>
 										<th> 10 </th>
+										<th> Stayback (2:30 to 3:30) </th>
 								  </tr>
 								</thead>
 								<tbody>
@@ -78,9 +79,11 @@
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
+										<td>N/A</td>
 									</tr>
 									<tr>
 										<td>Tueday</td>
+										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
@@ -104,6 +107,7 @@
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
+										<td>N/A</td>
 									</tr>
 									<tr>
 										<td>Thursday</td>
@@ -117,6 +121,7 @@
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
+										<td>N/A</td>
 									</tr>
 									<tr>
 										<td>Friday</td>
@@ -130,6 +135,7 @@
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
 										<td><input type="checkbox" /></td>
+										<td>N/A</td>
 									</tr>
 								</tbody>
 							</table>
