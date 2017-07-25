@@ -60,7 +60,7 @@
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Theme Style -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/style-main-gap.css">
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
@@ -90,7 +90,7 @@
 								<a href="#">About Us</a>
 							</li>
 							
-							<li <?php if ($page_id == 'resources'|| $page_id == 'class 6' || $page_id == 'class 7' || $page_id == 'class 8') echo "class = active"; ?>>
+							<li <?php if ($page_id == 'resources'|| $page_id == 'class 6' || $page_id == 'class 7' || $page_id == 'class 8' || $page_id == 'IGCSE' || $page_id == 'a level pure math' || $page_id == 'a level mechanics' || $page_id == 'a leve statistics') echo "class = active"; ?>>
 								
 								<a data-target="#" href="resources.php" class="fh5co-sub-ddown" >Resources</a>
 								<ul class="fh5co-sub-menu-1">

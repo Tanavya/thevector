@@ -55,23 +55,25 @@
 					</div>
 					<div class="clearfix visible-md-block visible-lg-block"></div>
 					<!--<div class="clearfix visible-md-block visible-lg-block"></div>-->
+					<a href="http://localhost:8888/vanilla-core-2-3-1/">
 					<div class="col-md-4 col-sm-6 text-center fh5co-feature feature-box" style="margin-left: 120px;"> 
 						<div class="fh5co-feature-icon">
 							<i class="ti-comments"></i>
 						</div>
 						<h3 class="heading">Forum</h3>
-						<p>Join our community to discuss stimulating math problems and get your doubts resolved by our proficient moderators. </p>
+						<p style="color: #8B969C">Join our community to discuss stimulating math problems and get your doubts resolved by our proficient moderators. </p>
 					</div>
+					</a>
 					
-					
+					<a href="tutoring.php">
 					<div class="col-md-4 col-sm-6 text-center fh5co-feature feature-box" style="float: right; margin-right: 120px;"> 
 						<div class="fh5co-feature-icon">
 							<i class="ti-ruler-pencil"></i>
 						</div>
 						<h3 class="heading">Tutoring</h3>
-						<p>Enter your free periods and we will find you an available tutor.</p>
+						<p style="color: #8B969C">Enter your free periods and we will find you an available tutor.</p>
 					</div>
-					
+					</a>
 <!--
 					<div class="col-md-4 col-sm-6 text-center fh5co-feature feature-box">
 						<div class="fh5co-feature-icon">
