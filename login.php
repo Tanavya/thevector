@@ -35,12 +35,12 @@
 						<form action="login_script.php" method="POST">
 							<div class="col-md-12">
 								<div class="form-group">
-									<input placeholder="Username" id="uid" type="text" class="form-control input-lg" name = "uid">
+									<input placeholder="Username" type="text" class="form-control input-lg" name = "uid">
 								</div>	
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
-									<input placeholder="Password" id="pwd" type="password" class="form-control input-lg"
+									<input placeholder="Password" type="password" class="form-control input-lg"
 									name = "pwd">
 								</div>	
 							</div>
