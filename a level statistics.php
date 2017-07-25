@@ -14,7 +14,7 @@
 				<div class="col-md-8 col-md-offset-2">
 					<div class="fh5co-hero-wrap">
 						<div class="fh5co-hero-intro">
-							<h1 class="to-animate hero-animate-1">A-Level Stastics</h1>
+							<h1 class="to-animate hero-animate-1">A-Level Statistics</h1>
 							<h2 class="to-animate hero-animate-2"></h2>
 						</div>
 					</div>
