@@ -91,9 +91,9 @@
 							</li>
 							
 							<li <?php if ($page_id == 'resources'|| $page_id == 'class 6' || $page_id == 'class 7' || $page_id == 'class 8' || $page_id == 'IGCSE' || $page_id == 'a level pure math' || $page_id == 'a level mechanics' || $page_id == 'a leve statistics') echo "class = active"; ?>>
-								
+								 
 								<a data-target="#" href="resources.php" class="fh5co-sub-ddown" >Resources</a>
-								<ul class="fh5co-sub-menu-1">
+								<ul class="fh5co-sub-menu-1"> 
 							 	
 								 	<li <?php if ($page_id == 'class 6') echo "class = active"; ?>>
 										<a href="class 6.php">Class 6</a>
@@ -128,11 +128,14 @@
 									</li>
 								 	
 								</ul>
-								
 							</li>
-							<li><a href="#">Challenges</a></li>
+							<li <?php if ($page_id == 'challenges') echo "class = active"; ?>>
+								<a href="challenges.php">Challenges</a>
+							</li>
 							<li><a href="http://localhost:8888/vanilla-core-2-3-1/">Forum</a></li>
-							<li><a href="tutoring.php">Tutoring</a></li>
+							<li <?php if ($page_id == 'tutoring') echo "class = active"; ?>>
+								<a href="tutoring.php">Tutoring</a>
+							</li>
 							<?php
 								
 								if (isset($_SESSION['LoggedIn'])) {
