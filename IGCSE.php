@@ -5,6 +5,9 @@
 <!DOCTYPE html>
 	<head>
 	<link rel="stylesheet" href="css/style.css">
+	<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 	</head>
 	<body class="inner-page">
 		
@@ -28,6 +31,13 @@
 								<li>Topic 1</li>
 								<li>Topic 2</li>
 								<li>Topic 3</li>
+								<li>Topic 4</li>
+								<li>Topic 4</li>
+								<li>Topic 4</li>
+								<li>Topic 4</li>
+								<li>Topic 4</li>
+								<li>Topic 4</li>
+								<li>Statistics and Probability</li>
 							</ul>
 							<div class="resp-tabs-container hor_1">
 								<div>
@@ -35,10 +45,7 @@
 										<div class="col-md-12">
 											<h2 class="h3">Title</h2>
 										</div>
-										<div class="col-md-6">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
-										</div>
-										<div class="col-md-6">
+										<div class="col-md-12">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
 										</div>
 									</div>
@@ -48,10 +55,7 @@
 										<div class="col-md-12">
 											<h2 class="h3">Title</h2>
 										</div>
-										<div class="col-md-6">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien. </p>
-										</div>
-										<div class="col-md-6">
+										<div class="col-md-12">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
 										</div>
 									</div>
@@ -61,14 +65,227 @@
 										<div class="col-md-12">
 											<h2 class="h3">Title</h2>
 										</div>
-										<div class="col-md-6">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
-										</div>
-										<div class="col-md-6">
+										<div class="col-md-12">
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
 										</div>
 									</div>
 								</div>
+								<div>
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Title</h2>
+										</div>
+										<div class="col-md-12">
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Title</h2>
+										</div>
+										<div class="col-md-12">
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Title</h2>
+										</div>
+										<div class="col-md-12">
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Title</h2>
+										</div>
+										<div class="col-md-12">
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Title</h2>
+										</div>
+										<div class="col-md-12">
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Title</h2>
+										</div>
+										<div class="col-md-12">
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
+										</div>
+									</div>
+								</div>
+								<div >
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3"><b>Types of Data</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p><b>Raw data</b> is the information we get when we do a survey. Data can either be <b>discrete</b> or <b>continuous</b>. 
+											<ul>
+											<li>Discrete data has units of measurement (for example, CDs) which cannot be split up.</li>
+											<li> Continuous data has a continuous scale of measurement – for example distance - has meaning at all points between the numbers given; we can travel a distance of 1.2 and 1.85 and even 1.632 miles.
+												</li>
+											</ul>
+											</p>
+										</div>
+										<div class="col-md-12">
+											<h2 class="h3"><b>Grouping Data</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p><b>Classes</b> are the groups the data is organised into. <b>Class boundaries</b> are the boundaries between one class and the next. 
+											<ul>
+												<li>Each class has an <b>upper class boundary</b> and <b>lower class boundary</b>. 
+											</li>
+												<li>The <b>class width</b> is the difference between the upper class boundary and lower class boundary. 
+											</li>
+											<li>
+											The midpoint of the class (mid-class value) is the middle of the upper and lower class boundaries.
+											</li>
+
+											</p>
+										</div>
+						
+										<div class="col-md-12">
+											<h2 class="h3"><b>Histograms</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>Histograms are graphs used to represent grouped data, where the <b>area</b> of each bar represents the frequency of that class. Since the area, not the vertical height, represent frequency, the <b>vertical axis</b> shows the <b>frequency density</b> instead of the frequency.
+											</p>
+											$$Frequency = Area = Class\: Width &times; Frequency\:Density
+											$$
+												<p> <center> Therefore, </center> </p>
+											$$ Frequency\:Density =  \frac{Frequency}{Class\:Width} $$
+											<figure><center><img class="img-responsive" src="images/histogram.jpg" style="width: 50%; height: 50%;"> </center></figure>
+											
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Mean</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>The <b>mean</b> is the most common measure of average. To calculate the mean for ungrouped data: Add the numbers together and divide the total by the amount of numbers. 
+											<br> For grouped data, where \(f\) = Frequency and \(x\) = Mid-Class Value:
+											$$ Mean = \frac{\sum fx}{\sum x} $$
+											<b>Advantages- </b> All the data is used to find the answer. <br>
+											<strong>Disadvantages-</strong> Very large or very small numbers (outliers) can distort the answer.
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Median</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>The median is the middle number. To calculate the median of any set of numbers, you need to write the numbers in order.
+
+To find the median number, put all the numbers in numerical order. <br>
+If there is an odd number of results, the median is the middle number.
+If there is an even number of results, the median will be the mean of the two central numbers.
+										<br> <strong>Advantages-</strong> Not affected by outliers. <br> 
+										<strong>Disadvantages-</strong> Takes a long time to calculate for a very large set of data.
+
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Mode</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>The <b>mode</b> is the number which occurs most often in a set of data. There can be more than one mode.
+											<br> In grouped data, the modal class is the class with the highest frequency.
+											</p>
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Interquartile Range</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>The <strong>lower quartile</strong> divides the bottom half of the data into two halves, and the <strong>upper quartile</strong> divides the upper half of the data into two halves. <br> 
+											<ul>
+												<li>The lower quartile is the \(\frac{n+1}{4}\)<sup>th</sup> value.  </li><br>
+											<li> The upper quartile is the \(\frac{3(n+1)}{4}\)<sup>th</sup> value.
+												</li>
+											</ul>
+											The <strong>interquartile range</strong> is the difference between the upper quartile and lower quartile.
+
+											</p>
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Cumulative Frequency</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>The <strong>cumulative frequency</strong> is obtained by adding up the frequencies as you go along, to give a <strong>'running total'</strong>.
+Cumulative frequency graphs are always plotted using the highest value in each group of data, (because the table gives you the total that are less than the upper boundary) and the cumulative frequency is always plotted on the vertical axis. Cumulative frequency diagrams usually have a characteristic S-shape, called an ogive.
+											</p>
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Probability</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>
+											$$ Probability\:of\:an\:outcome = \frac{Number\:of\:ways\:the\:outcome\:can\:happen}{Total\:number\:of\:possible\:outcomes} $$
+											The probability of an outcome can have any value between 0 (impossible) and 1 (certain). It may be a fraction, decimal or percentage.
+											</p>
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Tree Diagrams</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>
+											Tree diagrams allow us to see all the possible outcomes of an event and calculate their probability. Each branch in a tree diagram represents a possible outcome.<br>
+The sum of the probabilities for any <strong>set of branches</strong> is always <strong>1</strong>. <br>
+Also note that in a tree diagram to find a probability of an outcome we <strong>multiply along the branches</strong> and <strong>add vertically</strong>.
+										<figure><center><img class="img-responsive" src="images/tree-diagram.jpg" style="width: 60%; height: 60%;"> </center></figure>
+											
+
+											</p>
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Events</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>
+											An event is a possible outcome. <br>
+											When two events are <strong>independent</strong>, the outcome of one has no effect on the outcome of the other. <br>
+											When two events are <strong>mutually exclusive</strong>, they cannot happen at the same time. For example, if a die is thrown, the events 'obtaining a 6' and 'obtaining a 1' are mutually exclusive, as they cannot happen at the same time.
+											</p>
+										</div>
+										
+										<div class="col-md-12">
+											<h2 class="h3"><b>Conditional Probability</b></h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>
+											Conditional probability is when the probability of one event depends on a previous event - eg, if items are being picked from a bag in turn, but not replaced. <br>
+Conditional probabilities are best represented on a tree diagram. After each event, the top and bottom numbers of the probability change. In this example, the bottom number will decrease by one each time an event occurs (one marble is removed).
+The easiest way to work out conditional probabilities is to draw a tree diagram with the probabilities on each branch.
+
+											</p>
+										</div>
+										
+										
+										
+									</div>
+								</div>
+								
+					
 							</div>
 						</div>
 					</div>
