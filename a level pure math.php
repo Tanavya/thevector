@@ -8,7 +8,7 @@
 	</head>
 	<body class="inner-page">
 		<div id="fh5co-hero">
-			<a href="#fh5co-main" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
+			<a href="#fh5co-tab-feature-vertical" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
 			<!-- End fh5co-arrow -->
 			<div class="container">
 				<div class="col-md-8 col-md-offset-2">

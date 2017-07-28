@@ -12,7 +12,7 @@
 	<body class="inner-page">
 		
 		<div id="fh5co-hero">
-			<a href="#fh5co-main" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
+			<a href="#fh5co-tab-feature-vertical" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
 			<!-- End fh5co-arrow -->
 			<div class="container">
 				<div class="col-md-8 col-md-offset-2">
@@ -28,7 +28,7 @@
 		<div class="col-md-12 animate-box" style="margin-top:140px;">
 						<div id="fh5co-tab-feature-vertical" class="fh5co-tab">
 							<ul class="resp-tabs-list hor_1">
-								<li>Topic 1</li>
+								<li>Numbers</li>
 								<li>Topic 2</li>
 								<li>Topic 3</li>
 								<li>Topic 4</li>
@@ -43,12 +43,101 @@
 								<div>
 									<div class="row">
 										<div class="col-md-12">
-											<h2 class="h3">Title</h2>
+											<h2 class="h3">Types of Numbers</h2>
 										</div>
-										<div class="col-md-12">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget blandit mi. Aenean sit amet viverra ex. Nulla pretium enim in eros aliquet fermentum. Vestibulum sed mattis lectus. Nam vel interdum metus, a euismod velit. Praesent a ultricies leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque pharetra elementum ipsum a tincidunt. Vivamus vitae nibh et augue ultricies faucibus eu in mi. In sodales, risus vitae placerat sagittis, augue ipsum accumsan nisl, posuere rutrum ex nibh eu nulla. Vivamus turpis tellus, pharetra eu aliquam pulvinar, aliquet a sapien.</p>
+										<div class="col-md-12" style ="color: black;">
+											<ul>
+											<li> <strong>Natural numbers</strong> are any non-fractional numbers from 1 to infinity. </li>
+											<li> <strong>Whole numbers</strong> are any non-fractional numbers from 0 to infinity. </li>
+											<li> <strong>Integers</strong> are any non-fractional numbers, either positive, negative or 0. </li>
+											<li> <strong>Prime numbers</strong> are numbers which have only two factors- 1 and the number itself. 1 is not a prime number. </li>
+											<li> <strong>Rational numbers</strong> are numbers that can be expressed as \(\frac{p}{q}\), where \(p\) and \(q\) are integers, and \(q \neq 0\). For e.g- \(\frac{2}{3}\), 7.2</li>
+											<li> <strong>Irrational numbers</strong> are numbers that cannot be expressed in \(\frac{p}{q}\) form.
+											</ul>	
 										</div>
 									</div>
+									
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">HCF and LCM</h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<figure><center><img class="img-responsive" src="images/hcf-lcm.png" style="width: 50%; height: 50%;"> </center></figure>
+											<br>
+											<p>The Highest Common Factor is the product of the numbers in the <strong>intersection</strong> of the Venn diagram, while the Lowest Common Multiple is the product of <strong>all</strong> the numbers in the Venn diagram. 
+											</p>
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Sets</h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p>A set is a well-defined collection of distinct objects. A few ways in which sets can be defined are-</p>
+										<ul>
+										<li>A = {x: x is a natural number}</li>
+										<li>B = {(x, y): y = mx + c}</li>
+										<li>C = {x: a &le; x &le; b}</li>
+										<li>D = {a, b, c, ... }</li>
+										</ul>
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Set Notation</h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<ul>
+											<li>n(A) = no. of elements in A</li>
+											<li>A&isin;B = A is an element of B</li>
+											<li>A&notin;B = A is not an element of B</li>
+											<li>A&prime; = compliment of set A</li>
+											<li>&Oslash; or { } = empty set</li>
+											<li> &xi; = Universal set</li>
+											<li>A &cup; B = union of A and B (all the elements in A and B, where there is no repetition of common elements)</li>
+											<li>A &cap; B = intersection of A and B (the common elements in A and B)</li>
+											<li>A &sube; B = A is a subset of B</li>
+											<li>A &sub; B = A is a proper subset of B</li>
+											<li>A ⊈ B = A is not a subset of B</li>
+											<li>A &nsub; B = A is not a proper subset of B</li>
+											</ul> 
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Set Representations using Venn Diagrams</h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p> Venn diagrams are a visual way of expressing sets, and they often make solving set related questions easier.</p>
+											<img class="img-responsive" src="images/union.png" style="width: 35%; height: 35%; float:left;">       <img class="img-responsive" src="images/set-difference.png" style="width: 30%; height: 30%; float:right"> <center><img class="img-responsive" src="images/intersection.png" style="width: 30%; height: 30%;"></center> <br>
+											<figure><center><img class="img-responsive" src="images/subset.png" style="width: 35%; height: 35%; margin-left:190px;"> </center></figure>
+											
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="col-md-12">
+											<h2 class="h3">Indices</h2>
+										</div>
+										<div class="col-md-12" style ="color: black;">
+											<p> Standard form is a useful notation to represent very small or very large numbers. It also makes the accuracy of the value evident. Values are represented in the form \(x \times 10^y\), where \(1 \leq x < 10\) and \(y\) is an integer. For example, 3900 = 3.9 &times; 10 <sup> 3</sup></p>
+											<p> Some general rules of indices are-
+											 
+											
+										</div>
+										<div class="col-md-6" style ="color: black;">
+											<ul> 
+											<li> \(a^x \times a^y = a^{x+y} \)</li>
+											<li> \(\frac{a^x}{a^y} = a^{x-y} \)</li>
+											<li> \({(a^x)}^y= a^{xy} \)</li>
+											</ul>
+										</div>
+									</div>
+									
+									
 								</div>
 								<div>
 									<div class="row">
@@ -181,7 +270,7 @@
 										<div class="col-md-12" style ="color: black;">
 											<p>The <b>mean</b> is the most common measure of average. To calculate the mean for ungrouped data: Add the numbers together and divide the total by the amount of numbers. 
 											<br> For grouped data, where \(f\) = Frequency and \(x\) = Mid-Class Value:
-											$$ Mean = \frac{\sum fx}{\sum x} $$
+											$$ Mean = \frac{\sum fx}{\sum f} $$
 											<b>Advantages- </b> All the data is used to find the answer. <br>
 											<strong>Disadvantages-</strong> Very large or very small numbers (outliers) can distort the answer.
 										</div>

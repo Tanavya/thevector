@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body class="inner-page">
-		<div id="fh5co-hero">
+		<div id="fh5co-tab-feature-vertical">
 			<a href="#fh5co-main" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
 			<!-- End fh5co-arrow -->
 			<div class="container">

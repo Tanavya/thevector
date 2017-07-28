@@ -467,6 +467,80 @@ textarea {
 }
 
 
+#fh5co-primary-menu .fh5co-sub-menu-1 {
+  padding: 7px 0 3px; /*this is the padding of the drop down thing*/
+	padding-right: -50px;
+  background: rgba(0, 0, 0, 1); /*TODO*/
+	-webkit-border-radius :5px;
+  -moz-border-radius : 5px;
+  -ms-border-radius : 5px;
+  border-radius:  5px; 
+  -webkit-border-top-right-radius :0px;
+  -moz-border-top-right-radius : 0px;
+  -ms-border-top-right-radius : 0px;
+  border-top-right-radius:  0px; 
+	
+	  -webkit-border-bottom-right-radius :0px;
+  -moz-border-bottom-right-radius : 0px;
+  -ms-border-bottom-right-radius : 0px;
+  border-bottom-right-radius:  0px; 
+	
+		position:absolute;
+	right:191px;
+
+	
+}
+
+#fh5co-primary-menu .fh5co-sub-menu-1:before {
+  position: relative;
+  top: -9px;
+  right: 50px;
+  width: 10px;
+  height: 0;
+  content: '';
+} /*this sort of does nothing!*/
+
+#fh5co-primary-menu .fh5co-sub-menu-1:after {
+  position: absolute;
+  top: -8px;
+  right: -170px;
+  width: 0;
+  height: 0;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid #90d7ea;
+  border-bottom: 8px solid rgba(0, 0, 0, 1);
+  border-left: 8px solid transparent;
+  content: '';
+}/*this somehow controls the little arrow thing*/
+/*
+#fh5co-primary-menu .fh5co-sub-menu-1 .fh5co-sub-menu-1:before {
+  top: 6px;
+  right: 100%;
+}
+
+#fh5co-primary-menu .fh5co-sub-menu-1 .fh5co-sub-menu-1:after {
+  top: 7px;
+  right: 100%;
+  border: none !important;
+}*/
+
+
+
+#fh5co-primary-menu .fh5co-sub-menu-1 a {
+  letter-spacing: 0;
+  line-height: 26px;
+  padding: 0 15px;
+	padding-right: -10px;/*this also somehow controls the padding idek*/
+  font-size: 14px;
+  color: #ffffff !important;
+  text-transform: none;
+  background: none;
+	
+	
+}
+#fh5co-primary-menu .fh5co-sub-menu-1 a:hover {
+  color: #90d7ea !important;
+}
 
 .site-header.has-image #primary-menu .sub-menu-1 {
   border-color: #ebebeb;
@@ -632,11 +706,11 @@ textarea {
   margin-top: 2px;
   content: "\e64b";
 }
-#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu-3 {
+#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu-1 {
   display: none;
   padding-left: 20px;
 }
-#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu-3 li {
+#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu-1 li {
   list-style: none;
 }
 
@@ -1798,161 +1872,6 @@ a > img.fh5co-align-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-#fh5co-primary-menu .fh5co-sub-menu-1 {
-  padding: 7px 0 3px; /*this is the padding of the drop down thing*/
-	padding-right: -50px;
-  background: rgba(0, 0, 0, 1); /*TODO*/
-	-webkit-border-radius :5px;
-  -moz-border-radius : 5px;
-  -ms-border-radius : 5px;
-  border-radius:  5px; 
-  -webkit-border-top-right-radius :0px;
-  -moz-border-top-right-radius : 0px;
-  -ms-border-top-right-radius : 0px;
-  border-top-right-radius:  0px; 
-	
-	  -webkit-border-bottom-right-radius :0px;
-  -moz-border-bottom-right-radius : 0px;
-  -ms-border-bottom-right-radius : 0px;
-  border-bottom-right-radius:  0px; 
-	
-		position:absolute;
-	right:12em;
-
-	
-}
-
-#fh5co-primary-menu .fh5co-sub-menu-1:before {
-  position: relative;
-  top: -9px;
-  right: 50px;
-  width: 10px;
-  height: 0;
-  content: '';
-} /*this sort of does nothing!*/
-
-#fh5co-primary-menu .fh5co-sub-menu-1:after {
-  position: absolute;
-  top: -8px;
-  right: -170px;
-  width: 0;
-  height: 0;
-  border-right: 8px solid transparent;
-  border-bottom: 8px solid #90d7ea;
-  border-bottom: 8px solid rgba(0, 0, 0, 1);
-  border-left: 8px solid transparent;
-  content: '';
-}/*this somehow controls the little arrow thing*/
-/*
-#fh5co-primary-menu .fh5co-sub-menu-1 .fh5co-sub-menu-1:before {
-  top: 6px;
-  right: 100%;
-}
-
-#fh5co-primary-menu .fh5co-sub-menu-1 .fh5co-sub-menu-1:after {
-  top: 7px;
-  right: 100%;
-  border: none !important;
-}*/
-
-
-
-#fh5co-primary-menu .fh5co-sub-menu-1 a {
-  letter-spacing: 0;
-  line-height: 26px;
-  padding: 0 15px;
-	padding-right: -10px;/*this also somehow controls the padding idek*/
-  font-size: 14px;
-  color: #ffffff !important;
-  text-transform: none;
-  background: none;
-	
-	
-}
-#fh5co-primary-menu .fh5co-sub-menu-1 a:hover {
-  color: #90d7ea !important;
-}
-
-
-#fh5co-primary-menu .user-sub-menu {
-  padding: 7px 0 7px; /*this is the padding of the drop down thing*/
-	padding-right: -50px;
-  background: rgba(0, 0, 0, 1); /*TODO*/
-	-webkit-border-radius :5px;
-  -moz-border-radius : 5px;
-  -ms-border-radius : 5px;
-  border-radius:  5px; 
-  -webkit-border-top-right-radius :5px;
-  -moz-border-top-right-radius : 5px;
-  -ms-border-top-right-radius : 5px;
-  border-top-right-radius:  5px; 
-	
-	  -webkit-border-bottom-right-radius :5px;
-  -moz-border-bottom-right-radius : 5px;
-  -ms-border-bottom-right-radius : 5px;
-  border-bottom-right-radius:  5px; 
-	
-		position:absolute;
-	right:0em;
-	
-	width: 150px;
-	height: auto;
-	
-	
-}
-
-#fh5co-primary-menu .user-sub-menu:before {
-  position: relative;
-  top: -9px;
-  right: 50px;
-  width: 10px;
-  height: 0;
-  content: '';
-} /*this sort of does nothing!*/
-
-#fh5co-primary-menu .user-sub-menu:after {
-  position: absolute;
-  top: -8px;
-  right: 1.0em;
-  width: 0;
-  height: 0;
-  border-right: 8px solid transparent;
-  border-bottom: 8px solid #90d7ea;
-  border-bottom: 8px solid rgba(0, 0, 0, 1);
-  border-left: 8px solid transparent;
-  content: '';
-}/*this somehow controls the little arrow thing*/
-
-
-#fh5co-primary-menu .user-sub-menu a {
-  letter-spacing: 0;
-  line-height: 26px;
-  padding: 0 15px;
-	padding-right: -10px;/*this also somehow controls the padding idek*/
-  font-size: 14px;
-  color: #ffffff !important;
-  text-transform: none;
-  background: none;
-	
-}
-#fh5co-primary-menu .user-sub-menu a:hover {
-  color: #90d7ea !important;
-}
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #000099;
-    text-align: center;
-    padding: 8px;
-    width: 300px;
-}
-thead {
-	background-color: #dddddd;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -16,7 +16,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Slant &mdash; The Vector </title>
+	<title>The Vector </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="A math resource website for students, by students." />
 	<meta name="keywords" content="math, maths resources, math help, mathematics, math forum, math challenges, dpsi, maths, dpsi maths" />
@@ -60,7 +60,7 @@
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Theme Style -->
-	<link rel="stylesheet" href="css/style-main-gap.css">
+	<link rel="stylesheet" href="css/style.css">
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
@@ -75,8 +75,6 @@
 			<div class="container">
 				<!-- <div id="fh5co-menu-logo"> -->
 					<!-- START #fh5co-logo -->
-				
-					
 					<!-- START #fh5co-menu-wrap -->
 					<nav id="fh5co-menu-wrap" role="navigation" class = "nav-menu" style="float: left; margin-left: 38px;">
 						

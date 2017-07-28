@@ -10,7 +10,7 @@
 	</head>
 	<body class="inner-page">		
 		<div id="fh5co-hero">
-			<a href="#fh5co-main" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
+			<a href="#fh5co-tab-feature-vertical" class="smoothscroll fh5co-arrow to-animate hero-animate-4"><i class="ti-angle-down"></i></a>
 			<!-- End fh5co-arrow -->
 			<div class="container">
 				<div class="col-md-8 col-md-offset-2">
@@ -23,7 +23,7 @@
 				</div>
 			</div>		
 		</div>
-		<div class="col-md-12 animate-box" style="margin-top:140px; height:100em;">
+		<div class="col-md-12 animate-box" style="margin-top:140px; height:70em;">
 			<div id="fh5co-tab-feature-vertical" class="fh5co-tab">
 				<ul class="resp-tabs-list hor_1">
 					<li>Challenge Problem</li>
@@ -32,31 +32,27 @@
 				<div class="resp-tabs-container hor_1">
 					<div>
 						<div class="row">
-							<div class="col-md-12">
-								<h2 class="h3">Challenge Problem</h2>
-							</div>
 							<div class="col-md-6" style = "width: 100%;">
 								<iframe src="
 								https://docs.google.com/forms/d/e/1FAIpQLSc02zXEfgshWgEUBR0ZfrkFjTWq2NyW9S702yDaRfVXVrAnWw/viewform?c=0&w=1&includes_info_params=true
 								&widget=false&headers=false&chrome=false" 
-								style = "width: 100%; height: 80em;"></iframe>
+								style = "width: 100%; height: 50em;"></iframe>
 							</div>
 						</div>
 					</div>
 					<div>
 						<div class="row">
-							<div class="col-md-12">
-								<h2 class="h3">Leaderboard</h2>
-							</div>
+							
 							<div class="col-md-6" style = "width: 100%;">
 								<p>The leaderboard will be updated after your answers are checked.</p>
-								<iframe src="https://docs.google.com/spreadsheets/d/15vTtDTwAlrfmGUDNv2h6JuRXBF-zrv04NyIsULgRfXY/pubhtml?widget=false&headers=false&chrome=false" style = "width: 100%; height: 1000px;"></iframe>
+								<iframe src="https://docs.google.com/spreadsheets/d/15vTtDTwAlrfmGUDNv2h6JuRXBF-zrv04NyIsULgRfXY/pubhtml?widget=false&headers=false&chrome=false" style = "width: 100%; height: 50em;"></iframe>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+		
 					
 		<!--
 		<div id="fh5co-main">

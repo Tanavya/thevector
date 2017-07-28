@@ -45,14 +45,15 @@
 					</div>
 					</a>
 					<!--<div class="clearfix visible-sm-block"></div>-->
-
+					<a href= "challenges.php">
 					<div class="col-md-4 col-sm-6 text-center fh5co-feature feature-box" style="float: right; margin-right: 120px;"> 
 						<div class="fh5co-feature-icon">
 							<i class="ti-medall"></i>
 						</div>
-						<h3 class="heading">Challenges</h3>
-						<p>Answer challenging questions, gain points (and extra marks in your exams!), and go up levels while competing with fellow students. </p>
+						<h3 class="heading">Weekly Challenges</h3>
+						<p style= "color:#8B969C">Answer challenging questions and gain points for your house as you compete with fellow students. </p>
 					</div>
+					</a>
 					<div class="clearfix visible-md-block visible-lg-block"></div>
 					<!--<div class="clearfix visible-md-block visible-lg-block"></div>-->
 					<a href="http://localhost:8888/vanilla-core-2-3-1/">
